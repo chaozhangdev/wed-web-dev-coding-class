@@ -1,0 +1,56 @@
+#box {
+  background-color: yellow
+}
+
+#h1 {
+  color: red;
+}
+
+#h2 {
+  color: blue;
+}
+
+h3 {
+  color: white;
+}
+
+#welcome {
+  background-color: blue;
+  font-size: 40px;
+  color: white;
+}
+
+#p1 {
+  color: red;
+  background-color: black;
+}
+
+#p2 {
+  color: white;
+  background-color: black;
+}
+
+.text {
+  color: blue;
+  font-size: 30px;
+  background-color: yellow;
+}
+
+
+h1 {
+  color: blue;
+  font-size: 30px;
+  background-color: yellow;
+}
+
+h3 {
+  color: blue;
+  font-size: 30px;
+  background-color: yellow;
+}
+
+h4 {
+  color: blue;
+  font-size: 30px;
+  background-color: yellow;
+}

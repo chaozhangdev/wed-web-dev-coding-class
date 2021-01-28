@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  background-color: blue;
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  background-color:yellow;
+  text-align: center;
+  font-weight: 100;
+}
+
+p {
+  color: yellow;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+body {
+  background-color: green;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+button {
+  font-size: 20px;
+  padding: 30px;
+  margin: 30px;
+  background-color:white;
+  color: red;
+}

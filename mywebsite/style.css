@@ -1,0 +1,17 @@
+img {
+  width: 360px;
+  height: 200px;
+}
+
+body {
+  background-image: url(https://media.giphy.com/media/dxsBv1QQM0SSj2T5Hm/giphy.gif);
+}
+
+.container {
+  margin: auto;
+  width: 800px;
+  background-color: black;
+  color: white;
+  border: 10px dotted white;
+  padding: 40px;
+}
