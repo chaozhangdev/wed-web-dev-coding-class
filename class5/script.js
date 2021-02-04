@@ -1,0 +1,3 @@
+function calculation() {
+  alert('hi !')
+}
