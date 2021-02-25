@@ -1,0 +1,5 @@
+Homework:
+Finish the Dice Game Project -> JavaScript
+1. Add button click event 
+2. Change the dice images 
+3. Compare number1 with number2 -> Change the title to who is the winner
